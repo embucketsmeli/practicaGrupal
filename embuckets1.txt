@@ -1,2 +1,2 @@
 archivo 1
-agregar linea
+agregar linea con conflicto
